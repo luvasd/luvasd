@@ -5,3 +5,5 @@ Eu também estou dando início a um curso de Python mais aprofundado, com pontos
 =====================================================================================
 
  No meu tempo livre, aprendo mais sobre economia e investimentos, assim como jogo games e muito baralho com os amigos.
+
+ * Meu email: lucaspdecovi@gmail.com
